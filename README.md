@@ -52,7 +52,7 @@ The LogiSim circuit file for this project is included as `LogiSim_Calc.circ`.
 ## Requirements
 - LogiSim software to run and modify the circuit.
 
-## Disclaimer
+## ⚠️ Disclaimer ⚠️
 
 This project is open for personal use, modification, and redistribution under the condition that **you do not claim it as your own work**. If you modify or distribute this project, you must provide proper attribution to the original creator (me) and clearly state any modifications made.
 
